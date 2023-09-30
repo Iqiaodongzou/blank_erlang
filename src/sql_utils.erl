@@ -4,8 +4,8 @@
 
 init() ->
     io:format("init..........~n"),
-    {ok, Pid} = mysql:start_link([{host, "localhost"}, {user, "acarnan"},
-                                {password, "123456"}, {database, "iposs_hunan"},
+    {ok, Pid} = mysql:start_link([{host, "localhost"}, {user, "root"},
+                                {password, "123456"}, {database, "economist"},
                                 {auth_method,<<"mysql_native_password">>}]),
     Pid.
 

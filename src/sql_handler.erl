@@ -24,7 +24,7 @@ prepare_query() ->
     R = jsx:encode(Person).
 
 prepare_audit() ->
-    Query = <<"select * from mit_ipran_compliance_audit_results20230726 where device_id = ?">>,
-    Params = [<<"1988608">>],
+    Query = <<"select * from eco_article where article_id = ?">>,
+    Params = [<<"1">>],
     Dbdata = sql_utils:query(Query,Params).
 
