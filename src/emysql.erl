@@ -9,7 +9,7 @@
 
 init() ->
     io:format("init..........~n"),
-    {ok, Pid} = mysql:start_link([{host, "159.138.11.4"}, {user, "root"},
+    {ok, Pid} = mysql:start_link([{host, "localhost"}, {user, "root"},
                                   {port,3336},
                                 {password, "123456"}, {database, "economist"},
                                 {auth_method,<<"mysql_native_password">>}]),
