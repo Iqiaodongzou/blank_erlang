@@ -12,7 +12,8 @@
 start(_Type, _Args) ->
     Dispatch = cowboy_router:compile([
         {'_', [{"/", code_handler, []},
-				{"/query",sql_handler,[]}
+				{"/query",sql_handler,[]},
+				{"/weeklyedition/archive",eco_edition_handler,[]}
                 ]}
     ]),
     {ok, _} = cowboy:start_clear(my_http_listener,

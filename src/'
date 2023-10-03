@@ -1,0 +1,95 @@
+-module(eco_edition_handler).
+
+-behavior(cowboy_handler).
+
+-export([init/2,prepare_json/0]).
+
+init(Req0, State) ->
+    Req = cowboy_req:reply(200,
+        #{<<"content-type">> => <<"application/json">>},
+        prepare_json(),
+        Req0),
+    {ok, Req, State}.
+
+prepare_json() ->
+    inets:start(),
+    Url = "https://www.economist.com/weeklyedition/archive",
+    {ok, {{_, 200, _}, Headers, Body}} =
+        httpc:request(get,
+                      {Url, []},
+                      [],
+                      []),
+    RawContent = Body,
+    Editions = prepare_editions(list_to_binary(RawContent)),
+    io:format("we got data ~p~n",[Editions]),
+    %DbData = prepare_dbdata(Year),
+    Res = jsx:encode(Editions),
+    <<"ok">>.
+
+prepare_editions(Source) ->
+    SourceList = binary:split(Source,<<"\n">>,[global]),
+    Editions = lists:last([X || X <- SourceList, prepare_source_check(X,<<"itemListElement">>)]),
+    Context = jsx:decode(Editions,[{return_maps, false}]),
+    EditionList = proplists:get_value(<<"itemListElement">>,Editions),
+    EcoEditions = [prepare_format_edition(X) || X <- EditionList].
+
+prepare_format_edition(Edition) ->
+    Url = proplists:get_value(<<"url">>,Edition),
+    Position = proplists:get_value(<<"position">>,Edition),
+    Date = prepare_target_last(prepare_source_match(Url,<<"[0-9]+.*">>),0),
+    Year = num(prepare_target_last(Date,1,<<"-">>)),
+    Month = num(prepare_target_last(Date,2,<<"-">>)),
+    Day = num(prepare_target_last(Date,0,<<"-">>)),
+    EditionId = num(iolist_to_binary([Year,Month,Day])),
+    Res = [
+            {year,Year},
+            {edition_id,EditionId},
+            {url,Url},
+            {position,Position}
+            ].
+
+prepare_source_check(Line,Regx) ->
+    case re:run(Line, Regx, [{capture, all, binary}]) of
+        {match,_} -> G = true;
+        _ -> G = false
+    end,
+    G.
+
+trip(X) ->
+    X1 = prepare_target_last(X,0,<<"\[">>),
+    X2 = prepare_target_last(X1,1,<<"\r">>),
+    X3 = prepare_target_last(X2,1,<<"dBm\]">>),
+    X4 = prepare_target_last(X3,1,<<"\"">>),
+    X5 = prepare_target_last(X4,1,<<"\]">>),
+    X6 = prepare_target_last(X5,1,<<"nm">>),
+    X7 = prepare_target_last(X6,1,<<"\n">>),
+    X8 = prepare_target_last(X7,1,<<"%">>),
+    X9 = prepare_target_last(X8,1,<<"\(">>),
+    X9.
+
+prepare_target_last(Line,Posi) ->
+    Regx = <<" ">>,
+    prepare_target_last(Line,Posi,Regx).
+
+prepare_target_last(Line,Posi,Regx) ->
+    ListSource = binary:split(Line,Regx,[global]),
+    ListTar = [X || X <- ListSource, length(binary_to_list(X)) > 0],
+    case Posi of
+        0 -> Res = lists:last(ListTar);
+        _ -> Res = lists:nth(Posi,ListTar)
+    end,
+    Res.
+
+prepare_source_match(Line,Regx) ->
+    case re:run(Line, Regx, [{capture, all, binary}]) of
+        {match,V} -> G = lists:nth(1,V);
+        _ -> G = <<"null">>
+    end.
+
+num(Source) ->
+    Result = lists:nth(1,binary:split(Source,<<"%">>,[global])),
+    case prepare_source_check(Result,<<"\\.">>) of
+        true -> Res = list_to_float(binary_to_list(Result));
+        false -> Res = list_to_integer(binary_to_list(Result))
+    end,
+    Res.
