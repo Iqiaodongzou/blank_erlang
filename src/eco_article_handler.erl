@@ -1,122 +1,66 @@
 -module(eco_article_handler).
+-import(extbif, [to_list/1,to_binary/1]).
+-export([main/1]).
 
--behavior(cowboy_handler).
-
--export([init/2,prepare_json/0]).
-
-init(Req0, State) ->
-    Req = cowboy_req:reply(200,
-        #{<<"content-type">> => <<"application/json">>},
-        prepare_json(),
-        Req0),
-    {ok, Req, State}.
-
-prepare_json() ->
+main(Edition) ->
     inets:start(),
-    Url = "https://www.economist.com/weeklyedition/archive",
+    Url = binary_to_list(proplists:get_value(url,Edition)),
     {ok, {{_, 200, _}, Headers, Body}} =
         httpc:request(get,
                       {Url, []},
                       [],
                       []),
     RawContent = Body,
-    Editions = prepare_editions(list_to_binary(RawContent)),
-    Articles = prepare_articles(lists:last(Editions)),
-    R = jsx:encode(Articles).
+    EditionId = proplists:get_value(edition_id,Edition),
+    DbData = prepare_dbdata(EditionId),
+    Editions = prepare_article(list_to_binary(RawContent),Edition),
+    List=[{to_binary(prepare_rdn(R)), R} || R <- Editions],
+    DbList=[{to_binary(prepare_rdn(R)), R} || R <- DbData],
+    {AddList, UpdateList, DelList} = list_compare(get_key(List), get_key(DbList)),
+    InsRes = [insert_data(proplists:get_value(Rdn,List)) || Rdn <- AddList],
+    UpdRes = [update_data(proplists:get_value(Rdn,List)) || Rdn <- UpdateList],
+    <<"ok">>.
 
-prepare_articles(Edition) ->
-    Url = binary_to_list(iolist_to_binary([<<"https://www.economist.com">>,Edition])),
-    {ok, {{_, 200, _}, Headers, Body}} =
-        httpc:request(get,
-                      {Url, []},
-                      [], 
-                      []),
-    RawContent = list_to_binary(Body),
-    Areas = prepare_areas(RawContent),
-    Articles = [prepare_article(proplists:get_value(url,X)) || X <- Areas],
-    Article = lists:last(Articles).
+prepare_rdn(R) ->
+    Res = proplists:get_value(url,R,20230101).
 
-prepare_article(Url) ->
-    Content = prepare_content(Url),
-    Res = [
-            {title,Url},
-            {articles,Content}
-            ].
+prepare_article(Source,Agent) ->
+    Editions = prepare_source_list(Source),
+    Context = jsx:decode(Editions,[{return_maps, false}]),
+    EcoArticle = [prepare_format_article(Context,Agent,Source)].
 
-prepare_content(PreUrl) ->
-    Url = binary_to_list(iolist_to_binary([<<"https://www.economist.com">>,PreUrl])),
-    {ok, {{_, 200, _}, Headers, Body}} =
-        httpc:request(get,
-                      {Url, []},
-                      [],
-                      []),
-    RawContent = list_to_binary(Body),
-    Mp3 = prepare_source_match(RawContent,<<"https://www.economist.com/media-assets/[\\S]+mp3">>),
-    Post = prepare_target_last(RawContent,1,<<",\"footer\"">>),
-    PreContent = prepare_target_last(Post,0,<<"\"body\":">>),
-    Flag = prepare_source_check(PreContent,<<"PARAGRAPH">>),
-    case Flag of
-        true ->
-            MidContents = jsx:decode(PreContent,[{return_maps, false}]),
-            Contents = iolist_to_binary([prepare_paragraph(X) 
-                        || X <- MidContents,prepare_para_check(X)]),
-            Res = [
-                    {mp3,Mp3},
-                    {content,Contents}
-                    ];
+prepare_source_list(Source) ->
+    MidList = binary:split(Source,<<"\n">>,[global]),
+    MidArticle = lists:last([X || X <- MidList,prepare_source_check(X,<<"mainEntityOfPage">>)]),
+    Res = MidArticle.
+
+prepare_format_article(Edition,Agent,Source) ->
+    Item = proplists:get_value(<<"url">>,Edition,null),
+    case Item =:= null of
         false ->
-            Res = [ 
-                    {mp3,null},
-                    {content,null}
-                    ]
+            EditionId = proplists:get_value(edition_id,Agent),
+            Url = proplists:get_value(<<"url">>,Edition),
+            AudioUrl = prepare_audio(Source),
+            Headline = proplists:get_value(<<"headline">>,Edition),
+            ArticleBody = proplists:get_value(<<"articleBody">>,Edition),
+            Image = proplists:get_value(<<"image">>,Edition),
+            CopyrightYear = proplists:get_value(<<"copyrightYear">>,Edition),
+            Res = [
+                    {edition_id,EditionId},
+                    {url,Url},
+                    {audio_url,AudioUrl},
+                    {headline,Headline},
+                    {articleBody,ArticleBody},
+                    {image,Image},
+                    {copyrightYear,CopyrightYear}
+                    ];
+        true ->
+            Res = []
     end.
-
-prepare_paragraph(X) ->
-    R = proplists:get_value(<<"text">>,X),
-    R.
-    
-prepare_para_check(X) ->
-    Type = proplists:get_value(<<"type">>,X,<<"unknown">>),
-    R = (Type =:= <<"PARAGRAPH">>).
-
-prepare_areas(RawContent) ->
-    Lines = binary:split(RawContent,<<"\"">>,[global]),
-    Ti = <<"/the-world-this-week/[0-9]+.*business|">>,
-    T0 = <<"/the-world-this-week/[0-9]+.*politics|">>,
-    T1 = <<"/leaders/[0-9]+.*|">>,
-    T2 = <<"/briefing/[0-9]+.*|">>,
-    T3 = <<"/china/[0-9]+.*|">>,
-    T4 = <<"/united-states/[0-9]+.*|">>,
-    T5 = <<"/middle-east-and-africa/[0-9]+.*|">>,
-    T6 = <<"/the-americans/[0-9]+.*|">>,
-    T7 = <<"/europe/[0-9]+.*|">>,
-    T8 = <<"/britain/[0-9]+.*|">>,
-    T9 = <<"/international/[0-9]+.*|">>,
-    T10 = <<"/technology-quarterly/[0-9]+.*|">>,
-    T11 = <<"/business/[0-9]+.*|">>,
-    T12 = <<"/finance-economics/[0-9]+.*|">>,
-    T13 = <<"/science-technology/[0-9]+.*|">>,
-    T14 = <<"/culture/[0-9]+.*|">>,
-    T15 = <<"/obituary/[0-9]+.*">>,
-    Regx = iolist_to_binary([
-             Ti,T0,T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15
-                                ]),
-    PreLeaders = [prepare_source_match(X,Regx) || X <- Lines,prepare_source_check(X,Regx)],
-    MidLeaders = lists:usort(PreLeaders),
-    Leaders = [[{url,X}] || X <- MidLeaders],
-    Leaders.
-
-prepare_editions(Content) ->
-    PreEditions = binary:split(Content,<<"edition-teaser">>,[global]),
-    Blockditions = [X || X <- PreEditions, prepare_source_check(X,<<"printedition">>)],
-    Editions = lists:usort([prepare_stdedition(X) || X <- Blockditions]),
-    Editions.
-
-prepare_stdedition(Block) ->
-    PreLine = prepare_target_last(
-                prepare_source_match(Block,<<"printedition[\\S]+">>),0,<<"\/">>), 
-    Line = prepare_target_last(PreLine,1,<<"\"">>),
-    R = iolist_to_binary([<<"/weeklyedition/">>,Line]).
+            
+prepare_audio(Source) ->
+    Mp3 = prepare_source_match(Source,<<"https://www.economist.com/media-assets/[\\S]+mp3">>),
+    Mp3.
 
 prepare_source_check(Line,Regx) ->
     case re:run(Line, Regx, [{capture, all, binary}]) of
@@ -155,3 +99,59 @@ prepare_source_match(Line,Regx) ->
         {match,V} -> G = lists:nth(1,V);
         _ -> G = <<"null">>
     end.
+
+num(Source) ->
+    Result = lists:nth(1,binary:split(Source,<<"%">>,[global])),
+    case prepare_source_check(Result,<<"\\.">>) of
+        true -> Res = list_to_float(binary_to_list(Result));
+        false -> Res = list_to_integer(binary_to_list(Result))
+    end,
+    Res.
+
+list_compare(LeftList, RightList) ->
+    LeftSet = ordsets:from_list(LeftList),
+    RightSet = ordsets:from_list(RightList),
+    Inter = ordsets:intersection(LeftSet, RightSet),
+    Left = ordsets:subtract(LeftSet, Inter),
+    Right = ordsets:subtract(RightSet, Inter),
+    {Left, Inter, Right}.
+
+get_key(List) ->
+    [Key || {Key, _} <- List].
+
+%% database operation
+
+prepare_dbdata(Year) ->
+    Query = <<"SELECT * from eco_articles where edition_id = ?">>,
+    Params = [Year],
+    Dbdata = emysql:query(Query,Params).
+
+insert_data(X) ->
+  case emysql:insert(eco_articles,[
+    {created_at, {datetime, calendar:local_time()}} | X
+  ]) of
+    {updated, {0, _}} ->
+      io:format("cannot insert article: ~p", [X]);
+    {updated, {1, _}} ->
+      ignore;
+    {error, Reason} ->
+      io:format("~p", [Reason]);
+    Other ->
+      io:format("insert article failed!!:~p~n",[Other])
+  end.
+
+update_data(X) ->
+    Url = proplists:get_value(url,X),
+    case emysql:update(eco_articles,
+      [{updated_at, {datetime, calendar:local_time()}} | X ],
+      {'and',[{url,Url}]}) of
+        {updated, {0, _}} ->
+            io:format("cannot update article data: ~p", [X]);
+        {updated, {1, _}} ->
+            ignore;
+        {error, Reason} ->
+            io:format("~p", [Reason]);
+        Other ->
+            io:format("update article data failed!!:~p~n",[Other])
+    end.
+

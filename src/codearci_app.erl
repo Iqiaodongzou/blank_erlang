@@ -13,6 +13,7 @@ start(_Type, _Args) ->
     Dispatch = cowboy_router:compile([
         {'_', [{"/", code_handler, []},
 				{"/query",sql_handler,[]},
+				%{"/weeklyedition/archive",eco_edition_handler,[]}
 				{"/weeklyedition/archive",eco_edition_handler,[]}
                 ]}
     ]),
