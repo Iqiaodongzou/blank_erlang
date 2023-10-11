@@ -1,60 +1,46 @@
--module(eco_edition_handler).
--behavior(cowboy_handler).
+-module(eco_query_article).
 -import(extbif, [to_list/1,to_binary/1]).
--export([init/2,prepare_json/0]).
+-behavior(cowboy_handler).
+-export([init/2,main/1]).
 
 init(Req0, State) ->
+    Req1 = cowboy_req:set_resp_header(<<"access-control-allow-origin">>, <<$*>>, Req0),
+    Req2 = cowboy_req:set_resp_header(<<"access-control-allow-methods">>, <<"POST">>, Req1),
+    Req3 = cowboy_req:set_resp_header(<<"access-control-allow-headers">>, <<"content-type">>, Req2),
     Req = cowboy_req:reply(200,
         #{<<"content-type">> => <<"application/json">>},
-        prepare_json(),
-        Req0),
+        main(Req3),
+        Req3),
     {ok, Req, State}.
 
-prepare_json() ->
+main(Req0) ->
+    QsVals = cowboy_req:parse_qs(Req0),
+    Link = proplists:get_value(<<"article_link">>,QsVals),
     inets:start(),
-    Url = "https://www.economist.com/weeklyedition/archive",
+    Url = binary_to_list(iolist_to_binary([Link])),
+    io:format("show me link url ~p~n",[Url]),
     {ok, {{_, 200, _}, Headers, Body}} =
         httpc:request(get,
                       {Url, []},
                       [],
                       []),
     RawContent = Body,
-    {{Year,_,_},_} = calendar:local_time(),
-    DbData = prepare_dbdata(Year),
-    Editions = prepare_editions(list_to_binary(RawContent)),
-    List=[{to_binary(prepare_rdn(R)), R} || R <- Editions],
-    DbList=[{to_binary(prepare_rdn(R)), R} || R <- DbData],
-    {AddList, UpdateList, DelList} = list_compare(get_key(List), get_key(DbList)),
-    InsRes = [insert_data(proplists:get_value(Rdn,List)) || Rdn <- AddList],
-    UpdRes = [update_data(proplists:get_value(Rdn,List)) || Rdn <- UpdateList],
-    Edition = lists:nth(1,Editions),
-    WeeklyRes = eco_weekly_edition_handler:main(Edition),
-    <<"ok">>.
+    Index = jsx:encode(prepare_index(list_to_binary(RawContent))),
+    Index.
 
-prepare_rdn(R) ->
-    Res = proplists:get_value(edition_id,R,20230101).
+prepare_index(Source) ->
+    SourceList = binary:split(Source,<<"{\"props">>,[global]),
+    PreIndex = lists:last([X || X <- SourceList, prepare_source_check(X,<<"pageProps">>)]),
+    Index = prepare_format_index(PreIndex),
+    Context = jsx:decode(Index,[{return_maps, false}]),
+    Context.
 
-prepare_editions(Source) ->
-    SourceList = binary:split(Source,<<"\n">>,[global]),
-    Editions = lists:last([X || X <- SourceList, prepare_source_check(X,<<"itemListElement">>)]),
-    Context = jsx:decode(Editions,[{return_maps, false}]),
-    EditionList = proplists:get_value(<<"itemListElement">>,Context),
-    EcoEditions = [prepare_format_edition(X) || X <- EditionList].
-
-prepare_format_edition(Edition) ->
-    Url = proplists:get_value(<<"url">>,Edition),
-    Position = proplists:get_value(<<"position">>,Edition),
-    Date = prepare_target_last(prepare_source_match(Url,<<"[0-9]+.*">>),0),
-    Year = prepare_target_last(Date,1,<<"-">>),
-    Month = prepare_target_last(Date,2,<<"-">>),
-    Day = prepare_target_last(Date,0,<<"-">>),
-    EditionId = num(iolist_to_binary([Year,Month,Day])),
-    Res = [
-            {year,num(Year)},
-            {edition_id,EditionId},
-            {url,Url},
-            {position,Position}
-            ].
+prepare_format_index(Source) ->
+    PreIndex = iolist_to_binary([<<"{\"props">>,Source]),
+    MidIndex = lists:nth(1,binary:split(PreIndex,<<"<">>,[global])),
+    OriUrl = <<"https://www.economist.com/">>,
+    TarUrl = <<"http://159.138.11.4:8081/query/article?article_link=https://www.economist.com/">>,
+    Index = iolist_to_binary(re:replace(MidIndex,OriUrl,TarUrl,[global])).
 
 prepare_source_check(Line,Regx) ->
     case re:run(Line, Regx, [{capture, all, binary}]) of
@@ -116,12 +102,12 @@ get_key(List) ->
 %% database operation
 
 prepare_dbdata(Year) ->
-    Query = <<"SELECT * from eco_editions where year = ?">>,
+    Query = <<"SELECT * from eco_weekly_edition where edition_id = ?">>,
     Params = [Year],
     Dbdata = emysql:query(Query,Params).
 
 insert_data(X) ->
-  case emysql:insert(eco_editions,[
+  case emysql:insert(eco_weekly_edition,[
     {created_at, {datetime, calendar:local_time()}} | X
   ]) of
     {updated, {0, _}} ->
@@ -135,10 +121,10 @@ insert_data(X) ->
   end.
 
 update_data(X) ->
-    EditionId = proplists:get_value(edition_id,X),
-    case emysql:update(eco_editions,
+    Url = proplists:get_value(url,X),
+    case emysql:update(eco_weekly_edition,
       [{updated_at, {datetime, calendar:local_time()}} | X ],
-      {'and',[{edition_id,EditionId}]}) of
+      {'and',[{url,Url}]}) of
         {updated, {0, _}} ->
             io:format("cannot update edition data: ~p", [X]);
         {updated, {1, _}} ->

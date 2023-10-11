@@ -1,68 +1,45 @@
--module(eco_weekly_edition_handler).
+-module(eco_query_index).
 -import(extbif, [to_list/1,to_binary/1]).
--export([main/1]).
+-behavior(cowboy_handler).
+-export([init/2,main/1]).
 
-main(Edition) ->
+init(Req0, State) ->
+    Req1 = cowboy_req:set_resp_header(<<"access-control-allow-origin">>, <<$*>>, Req0),
+    Req2 = cowboy_req:set_resp_header(<<"access-control-allow-methods">>, <<"POST">>, Req1),
+    Req3 = cowboy_req:set_resp_header(<<"access-control-allow-headers">>, <<"content-type">>, Req2),
+    Req = cowboy_req:reply(200,
+        #{<<"content-type">> => <<"application/json">>},
+        main(Req3),
+        Req3),
+    {ok, Req, State}.
+
+main(Req0) ->
+    QsVals = cowboy_req:parse_qs(Req0),
+    EditionId = proplists:get_value(<<"edition_id">>,QsVals),
     inets:start(),
-    Url = binary_to_list(proplists:get_value(url,Edition)),
+    Url = binary_to_list(<<"https://www.economist.com/">>),
     {ok, {{_, 200, _}, Headers, Body}} =
         httpc:request(get,
                       {Url, []},
                       [],
                       []),
     RawContent = Body,
-    EditionId = proplists:get_value(edition_id,Edition),
-    DbData = prepare_dbdata(EditionId),
-    Editions = prepare_editions(list_to_binary(RawContent),Edition),
-    List=[{to_binary(prepare_rdn(R)), R} || R <- Editions],
-    DbList=[{to_binary(prepare_rdn(R)), R} || R <- DbData],
-    {AddList, UpdateList, DelList} = list_compare(get_key(List), get_key(DbList)),
-    InsRes = [insert_data(proplists:get_value(Rdn,List)) || Rdn <- AddList],
-    UpdRes = [update_data(proplists:get_value(Rdn,List)) || Rdn <- UpdateList],
-    WeeklyRes = [eco_article_handler:main(E) || E <- Editions],
-    <<"ok">>.
+    Index = jsx:encode(prepare_index(list_to_binary(RawContent))),
+    Index.
 
-prepare_rdn(R) ->
-    Res = proplists:get_value(url,R,20230101).
+prepare_index(Source) ->
+    SourceList = binary:split(Source,<<"{\"props">>,[global]),
+    PreIndex = lists:last([X || X <- SourceList, prepare_source_check(X,<<"pageProps">>)]),
+    Index = prepare_format_index(PreIndex),
+    Context = jsx:decode(Index,[{return_maps, false}]),
+    Context.
 
-prepare_editions(Source,Agent) ->
-    SourceList = binary:split(Source,<<"\n">>,[global]),
-    Editions = lists:last([X || X <- SourceList, prepare_source_check(X,<<"itemListElement">>)]),
-    Context = jsx:decode(Editions,[{return_maps, false}]),
-    EditionList = proplists:get_value(<<"itemListElement">>,Context),
-    EcoEditions = [prepare_format_edition(X,Agent) || X <- EditionList].
-
-prepare_format_edition(Edition,Agent) ->
-    Item = proplists:get_value(<<"item">>,Edition,null),
-    case Item =:= null of
-        false ->
-            EditionId = proplists:get_value(edition_id,Agent),
-            Url = proplists:get_value(<<"url">>,Item),
-            DatePublished = proplists:get_value(<<"datePublished">>,Item),
-            Headline = proplists:get_value(<<"headline">>,Item),
-            Image = proplists:get_value(<<"image">>,Item),
-            Publisher = proplists:get_value(<<"publisher">>,Item),
-            Position = proplists:get_value(<<"position">>,Edition),
-            Res = [
-                    {edition_id,EditionId},
-                    {url,Url},
-                    {datePublished,DatePublished},
-                    {headline,Headline},
-                    {image,Image},
-                    {publisher,Publisher},
-                    {position,Position}
-                    ];
-        true ->
-            EditionId = proplists:get_value(edition_id,Agent),
-            Url = proplists:get_value(<<"url">>,Edition),
-            Position = proplists:get_value(<<"position">>,Edition),
-            Res = [
-                    {edition_id,EditionId},
-                    {url,Url},
-                    {position,Position}
-                    ]
-    end.
-            
+prepare_format_index(Source) ->
+    PreIndex = iolist_to_binary([<<"{\"props">>,Source]),
+    MidIndex = lists:nth(1,binary:split(PreIndex,<<"<">>,[global])),
+    OriUrl = <<"https://www.economist.com/">>,
+    TarUrl = <<"http://159.138.11.4:8081/query/article?article_link=https://www.economist.com/">>,
+    Index = iolist_to_binary(re:replace(MidIndex,OriUrl,TarUrl,[global])).
 
 prepare_source_check(Line,Regx) ->
     case re:run(Line, Regx, [{capture, all, binary}]) of

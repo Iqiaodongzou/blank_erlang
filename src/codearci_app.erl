@@ -11,17 +11,18 @@
 
 start(_Type, _Args) ->
     Dispatch = cowboy_router:compile([
-        {'_', [{"/", code_handler, []},
-				{"/query",sql_handler,[]},
-				%{"/weeklyedition/archive",eco_edition_handler,[]}
-				{"/weeklyedition/archive",eco_edition_handler,[]}
+        {'_', [{"/", eco_query_index, []},
+				{"/query",eco_query_index,[]},
+				{"/query/index",eco_query_index,[]},
+				{"/query/editions",eco_query_editions,[]},
+				{"/query/edition",eco_query_edition,[]},
+				{"/query/article",eco_query_article,[]}
                 ]}
     ]),
     {ok, _} = cowboy:start_clear(my_http_listener,
         [{port, 8081}],
         #{env => #{dispatch => Dispatch}}
     ),
-    % lager:error("cowboy is already started ~p~s", [_Args]),
     codearci_sup:start_link().
 
 stop(_State) ->
