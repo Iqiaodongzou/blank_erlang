@@ -1,0 +1,1607 @@
+nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0mEshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0mEshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/07/israel-reels-as-hamas-launches-a-spectacular-and-bloody-offensive"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/15/gazas-evacuees-are-racing-south-with-nowhere-safe-to-go"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/15/gazas-evacuees-are-racing-south-with-nowhere-safe-to-go"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/leaders/2023/10/12/america-and-china-should-keep-doing-research-together"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/media-assets/image/20230722_DE_US.jpg"
+1> 13:33:45.669 [error] CRASH REPORT Process <0.3106.0> with 0 neighbours crashed with reason: no function clause matching lists:last([])
+1> 13:33:45.670 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3105.0> had its request process exit with reason: no function clause matching lists:last([])
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/military-terms-a-to-z"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/17/biden-steers-a-risky-course-in-the-israel-hamas-war"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/17/biden-steers-a-risky-course-in-the-israel-hamas-war"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/17/biden-steers-a-risky-course-in-the-israel-hamas-war"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/putins-plan-to-profit-from-the-israel-hamas-war"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/putins-plan-to-profit-from-the-israel-hamas-war"
+1> show me link url "https://www.economist.com/podcasts/2023/10/17/higher-bond-yields-are-proving-costly-for-governments-how-should-they-respond"
+1> show me link url "https://www.economist.com/podcasts/2023/10/17/higher-bond-yields-are-proving-costly-for-governments-how-should-they-respond"
+1> show me link url "https://www.economist.com/podcasts/2023/10/17/higher-bond-yields-are-proving-costly-for-governments-how-should-they-respond"
+1> show me link url "https://www.economist.com/media-assets/image/1843_20231013_1843_JAVIER_TEASER.jpg"
+1> show me link url "https://www.economist.com/media-assets/image/20230914_FLP001.jpg"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "http://54.190.52.30:8081/query/article?article_link=https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> 08:41:52.677 [error] CRASH REPORT Process <0.5145.0> with 0 neighbours crashed with reason: bad argument in jsx_decoder:incomplete/6 line 141
+1> 08:41:52.677 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.5144.0> had its request process exit with reason: bad argument in jsx_decoder:incomplete/6 line 141
+1> show me link url "https://www.economist.com/media-assets/image/1843_20231013_1843_JAVIER_TEASER.jpg"
+1> show me link url "https://www.economist.com/media-assets/image/1843_20231013_1843_JAVIER_TEASER.jpg"
+1> show me link url "https://www.economist.com/media-assets/image/1843_20231003_1843_artem_Teaser.jpg"
+1> show me link url "https://www.economist.com/media-assets/image/1843_20231013_1843_JAVIER_TEASER.jpg"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> 08:58:47.886 [error] CRASH REPORT Process <0.5254.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 08:58:47.887 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.5253.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 08:59:08.013 [error] CRASH REPORT Process <0.5256.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 08:59:08.014 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.5255.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 08:59:12.682 [error] CRASH REPORT Process <0.5258.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 08:59:12.682 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.5257.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> 09:03:34.599 [error] CRASH REPORT Process <0.5299.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 09:03:34.600 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.5298.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> 09:19:19.912 [info] SIGTERM received - shutting down
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0msrc/eco_query_index.erl:18:5: Warning: variable 'EditionId' is unused
+src/eco_query_index.erl:21:24: Warning: variable 'Headers' is unused
+src/eco_query_index.erl:42:5: Warning: variable 'Index' is unused
+src/eco_query_index.erl:51:1: Warning: function trip/1 is unused
+src/eco_query_index.erl:63:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_index.erl:67:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_index.erl:76:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_index.erl:78:22: Warning: variable 'G' is unused
+src/eco_query_index.erl:79:14: Warning: variable 'G' is unused
+src/eco_query_index.erl:82:1: Warning: function num/1 is unused
+src/eco_query_index.erl:90:1: Warning: function list_compare/2 is unused
+src/eco_query_index.erl:98:1: Warning: function get_key/1 is unused
+src/eco_query_index.erl:103:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_index.erl:106:5: Warning: variable 'Dbdata' is unused
+src/eco_query_index.erl:108:1: Warning: function insert_data/1 is unused
+src/eco_query_index.erl:122:1: Warning: function update_data/1 is unused
+
+src/eco_query_article.erl:22:24: Warning: variable 'Headers' is unused
+src/eco_query_article.erl:43:5: Warning: variable 'Index' is unused
+src/eco_query_article.erl:52:1: Warning: function trip/1 is unused
+src/eco_query_article.erl:64:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_article.erl:68:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_article.erl:77:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_article.erl:79:22: Warning: variable 'G' is unused
+src/eco_query_article.erl:80:14: Warning: variable 'G' is unused
+src/eco_query_article.erl:83:1: Warning: function num/1 is unused
+src/eco_query_article.erl:91:1: Warning: function list_compare/2 is unused
+src/eco_query_article.erl:99:1: Warning: function get_key/1 is unused
+src/eco_query_article.erl:104:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_article.erl:107:5: Warning: variable 'Dbdata' is unused
+src/eco_query_article.erl:109:1: Warning: function insert_data/1 is unused
+src/eco_query_article.erl:123:1: Warning: function update_data/1 is unused
+
+Eshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0msrc/eco_query_article.erl:22:24: Warning: variable 'Headers' is unused
+src/eco_query_article.erl:43:5: Warning: variable 'Index' is unused
+src/eco_query_article.erl:52:1: Warning: function trip/1 is unused
+src/eco_query_article.erl:64:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_article.erl:68:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_article.erl:77:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_article.erl:79:22: Warning: variable 'G' is unused
+src/eco_query_article.erl:80:14: Warning: variable 'G' is unused
+src/eco_query_article.erl:83:1: Warning: function num/1 is unused
+src/eco_query_article.erl:91:1: Warning: function list_compare/2 is unused
+src/eco_query_article.erl:99:1: Warning: function get_key/1 is unused
+src/eco_query_article.erl:104:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_article.erl:107:5: Warning: variable 'Dbdata' is unused
+src/eco_query_article.erl:109:1: Warning: function insert_data/1 is unused
+src/eco_query_article.erl:123:1: Warning: function update_data/1 is unused
+
+Eshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023/01/01"
+1> show me link url "https://www.economist.com/weeklyedition/2023/01/01"
+1> show me link url "https://www.economist.com/weeklyedition/2023/01/01"
+1> show me link url "https://www.economist.com/weeklyedition/2023/01/01"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/Fweeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/Fweeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023/12/20"
+1> 13:16:26.904 [error] CRASH REPORT Process <0.607.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 13:16:26.904 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.606.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 05:58:11.947 [error] CRASH REPORT Process <0.1643.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 05:58:11 GMT"},{"via","1.1 97bc018596ec6eea95bb5c59cf872884.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> 05:58:11.950 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1642.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 05:58:11 GMT"},{"via","1.1 97bc018596ec6eea95bb5c59cf872884.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 06:01:44.923 [error] CRASH REPORT Process <0.1676.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:01:44 GMT"},{"via","1.1 9c41acbf455afe486e686b86bbc3dbe6.cloudfront.net (CloudFront)"},{"age","3"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,..."},...],...}} in eco_query_article:main/1 line 22
+1> 06:01:44.929 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1675.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:01:44 GMT"},{"via","1.1 9c41acbf455afe486e686b86bbc3dbe6.cloudfront.net (CloudFront)"},{"age","3"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 06:04:00.227 [error] CRASH REPORT Process <0.1704.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:04:00 GMT"},{"via","1.1 40395c9e626aaaefe35a638d804ce9e4.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88185"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> 06:04:00.231 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1703.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:04:00 GMT"},{"via","1.1 40395c9e626aaaefe35a638d804ce9e4.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88185"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 06:04:26.149 [error] CRASH REPORT Process <0.1722.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:04:26 GMT"},{"via","1.1 41bbf944d0f6874b29da659d789e0380.cloudfront.net (CloudFront)"},{"age","2"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,..."},...],...}} in eco_query_article:main/1 line 22
+1> 06:04:26.153 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1721.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:04:26 GMT"},{"via","1.1 41bbf944d0f6874b29da659d789e0380.cloudfront.net (CloudFront)"},{"age","2"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 06:05:40.984 [error] CRASH REPORT Process <0.1736.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:05:40 GMT"},{"via","1.1 ac370ad904507e73e6d3c71919b4efa6.cloudfront.net (CloudFront)"},{"age","1"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,..."},...],...}} in eco_query_article:main/1 line 22
+1> 06:05:40.987 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1735.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:05:40 GMT"},{"via","1.1 ac370ad904507e73e6d3c71919b4efa6.cloudfront.net (CloudFront)"},{"age","1"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 06:05:50.193 [error] CRASH REPORT Process <0.1742.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:05:50 GMT"},{"via","1.1 aae9b7724185120bb8d23ea2cb4efe0c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> 06:05:50.201 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1741.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 06:05:50 GMT"},{"via","1.1 aae9b7724185120bb8d23ea2cb4efe0c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 08:32:33.203 [error] CRASH REPORT Process <0.1898.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 08:32:33 GMT"},{"via","1.1 703726084e0cfc81a23767d359e1972e.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> 08:32:33.206 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1897.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 08:32:33 GMT"},{"via","1.1 703726084e0cfc81a23767d359e1972e.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 11:22:44.515 [error] CRASH REPORT Process <0.2140.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 11:22:44 GMT"},{"via","1.1 aae9b7724185120bb8d23ea2cb4efe0c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> 11:22:44.520 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2139.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 11:22:44 GMT"},{"via","1.1 aae9b7724185120bb8d23ea2cb4efe0c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/britain/2023/10/11/britains-labour-party-embraces-supply-side-social-democracy"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> 11:34:12.267 [error] CRASH REPORT Process <0.2214.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 11:34:12 GMT"},{"via","1.1 703726084e0cfc81a23767d359e1972e.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> 11:34:12.271 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2213.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 11:34:12 GMT"},{"via","1.1 703726084e0cfc81a23767d359e1972e.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88186"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 22
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-21"
+1> 12:57:30.611 [error] CRASH REPORT Process <0.2545.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 12:57:30.611 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2544.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 12:57:32.865 [error] CRASH REPORT Process <0.2547.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 12:57:32.865 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2546.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-21"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> 13:14:34.575 [error] CRASH REPORT Process <0.2630.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 13:14:34.576 [error] Cowboy stream 2 with ranch listener my_http_listener and connection process <0.2628.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> 13:21:47.677 [error] CRASH REPORT Process <0.2792.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 13:21:47.678 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2791.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 13:22:05.340 [error] CRASH REPORT Process <0.2801.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 13:22:05.340 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2800.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> 13:47:02.370 [error] CRASH REPORT Process <0.3087.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> 13:47:02.370 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3086.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([undefined]) in eco_query_article:main/1 line 20
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-15"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-16"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-16"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-18"
+1> 14:12:37.086 [info] SIGTERM received - shutting down
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0mEshell V12.2.1  (abort with ^G)
+1> 1> [0;31m===> [1mFailed to boot codearci for reason {bad_return,
+                                                    {{codearci_app,start,
+                                                      [normal,[]]},
+                                                     {'EXIT',
+                                                      {badarg,
+                                                       [{io,format,
+                                                         ["from server entry we got params =====> ~p~n",
+                                                          []],
+                                                         [{file,"io.erl"},
+                                                          {line,99},
+                                                          {error_info,
+                                                           #{cause =>
+                                                              {device,
+                                                               put_chars},
+                                                             module =>
+                                                              erl_stdlib_errors}}]},
+                                                        {codearci_app,start,
+                                                         2,
+                                                         [{file,
+                                                           "/home/ubuntu/01-workspace/economist/blank_erlang/src/codearci_app.erl"},
+                                                          {line,13}]},
+                                                        {application_master,
+                                                         start_it_old,4,
+                                                         [{file,
+                                                           "application_master.erl"},
+                                                          {line,293}]}]}}}}
+[0m[0m1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0msrc/eco_query_article.erl:23:24: Warning: variable 'Headers' is unused
+src/eco_query_article.erl:44:5: Warning: variable 'Index' is unused
+src/eco_query_article.erl:53:1: Warning: function trip/1 is unused
+src/eco_query_article.erl:65:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_article.erl:69:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_article.erl:78:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_article.erl:80:22: Warning: variable 'G' is unused
+src/eco_query_article.erl:81:14: Warning: variable 'G' is unused
+src/eco_query_article.erl:84:1: Warning: function num/1 is unused
+src/eco_query_article.erl:92:1: Warning: function list_compare/2 is unused
+src/eco_query_article.erl:100:1: Warning: function get_key/1 is unused
+src/eco_query_article.erl:105:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_article.erl:108:5: Warning: variable 'Dbdata' is unused
+src/eco_query_article.erl:110:1: Warning: function insert_data/1 is unused
+src/eco_query_article.erl:124:1: Warning: function update_data/1 is unused
+
+Eshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/printedition/2023-10-07"
+1> show me link url "https://www.economist.com/https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> 14:51:33.155 [error] CRASH REPORT Process <0.311.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 14:51:33 GMT"},{"via","1.1 aae9b7724185120bb8d23ea2cb4efe0c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88776"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 14:51:33.158 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.310.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Thu, 19 Oct 2023 14:51:33 GMT"},{"via","1.1 aae9b7724185120bb8d23ea2cb4efe0c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88776"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/printedition/2023-10-21"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/politics"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/media-assets/audio/005 Leaders - The Middle East-0725078968c2e3418326cca1271bfcd3.mp3"
+1> 01:05:19.342 [error] CRASH REPORT Process <0.863.0> with 0 neighbours crashed with reason: no match of right hand value {error,invalid_uri} in eco_query_article:main/1 line 23
+1> 01:05:19.343 [error] Cowboy stream 7 with ranch listener my_http_listener and connection process <0.851.0> had its request process exit with reason: no match of right hand value {error,invalid_uri} in eco_query_article:main/1 line 23
+1> 01:26:44.621 [info] SIGTERM received - shutting down
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0msrc/eco_query_article.erl:23:24: Warning: variable 'Headers' is unused
+src/eco_query_article.erl:47:5: Warning: variable 'PostIndex' is unused
+src/eco_query_article.erl:56:1: Warning: function trip/1 is unused
+src/eco_query_article.erl:68:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_article.erl:72:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_article.erl:81:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_article.erl:83:22: Warning: variable 'G' is unused
+src/eco_query_article.erl:84:14: Warning: variable 'G' is unused
+src/eco_query_article.erl:87:1: Warning: function num/1 is unused
+src/eco_query_article.erl:95:1: Warning: function list_compare/2 is unused
+src/eco_query_article.erl:103:1: Warning: function get_key/1 is unused
+src/eco_query_article.erl:108:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_article.erl:111:5: Warning: variable 'Dbdata' is unused
+src/eco_query_article.erl:113:1: Warning: function insert_data/1 is unused
+src/eco_query_article.erl:127:1: Warning: function update_data/1 is unused
+
+Eshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/12/business"
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0msrc/eco_query_article.erl:23:24: Warning: variable 'Headers' is unused
+src/eco_query_article.erl:47:5: Warning: variable 'PostIndex' is unused
+src/eco_query_article.erl:56:1: Warning: function trip/1 is unused
+src/eco_query_article.erl:68:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_article.erl:72:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_article.erl:81:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_article.erl:83:22: Warning: variable 'G' is unused
+src/eco_query_article.erl:84:14: Warning: variable 'G' is unused
+src/eco_query_article.erl:87:1: Warning: function num/1 is unused
+src/eco_query_article.erl:95:1: Warning: function list_compare/2 is unused
+src/eco_query_article.erl:103:1: Warning: function get_key/1 is unused
+src/eco_query_article.erl:108:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_article.erl:111:5: Warning: variable 'Dbdata' is unused
+src/eco_query_article.erl:113:1: Warning: function insert_data/1 is unused
+src/eco_query_article.erl:127:1: Warning: function update_data/1 is unused
+
+Eshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0msrc/eco_query_editions.erl:18:5: Warning: variable 'EditionId' is unused
+src/eco_query_editions.erl:21:24: Warning: variable 'Headers' is unused
+src/eco_query_editions.erl:45:5: Warning: variable 'PostIndex' is unused
+src/eco_query_editions.erl:54:1: Warning: function trip/1 is unused
+src/eco_query_editions.erl:66:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_editions.erl:70:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_editions.erl:79:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_editions.erl:81:22: Warning: variable 'G' is unused
+src/eco_query_editions.erl:82:14: Warning: variable 'G' is unused
+src/eco_query_editions.erl:85:1: Warning: function num/1 is unused
+src/eco_query_editions.erl:93:1: Warning: function list_compare/2 is unused
+src/eco_query_editions.erl:101:1: Warning: function get_key/1 is unused
+src/eco_query_editions.erl:106:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_editions.erl:109:5: Warning: variable 'Dbdata' is unused
+src/eco_query_editions.erl:111:1: Warning: function insert_data/1 is unused
+src/eco_query_editions.erl:125:1: Warning: function update_data/1 is unused
+
+src/eco_query_index.erl:18:5: Warning: variable 'EditionId' is unused
+src/eco_query_index.erl:21:24: Warning: variable 'Headers' is unused
+src/eco_query_index.erl:45:5: Warning: variable 'PostIndex' is unused
+src/eco_query_index.erl:54:1: Warning: function trip/1 is unused
+src/eco_query_index.erl:66:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_index.erl:70:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_index.erl:79:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_index.erl:81:22: Warning: variable 'G' is unused
+src/eco_query_index.erl:82:14: Warning: variable 'G' is unused
+src/eco_query_index.erl:85:1: Warning: function num/1 is unused
+src/eco_query_index.erl:93:1: Warning: function list_compare/2 is unused
+src/eco_query_index.erl:101:1: Warning: function get_key/1 is unused
+src/eco_query_index.erl:106:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_index.erl:109:5: Warning: variable 'Dbdata' is unused
+src/eco_query_index.erl:111:1: Warning: function insert_data/1 is unused
+src/eco_query_index.erl:125:1: Warning: function update_data/1 is unused
+
+Eshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0msrc/eco_query_index.erl:18:5: Warning: variable 'EditionId' is unused
+src/eco_query_index.erl:21:24: Warning: variable 'Headers' is unused
+src/eco_query_index.erl:48:5: Warning: variable 'FinalIndex' is unused
+src/eco_query_index.erl:57:1: Warning: function trip/1 is unused
+src/eco_query_index.erl:69:1: Warning: function prepare_target_last/2 is unused
+src/eco_query_index.erl:73:1: Warning: function prepare_target_last/3 is unused
+src/eco_query_index.erl:82:1: Warning: function prepare_source_match/2 is unused
+src/eco_query_index.erl:84:22: Warning: variable 'G' is unused
+src/eco_query_index.erl:85:14: Warning: variable 'G' is unused
+src/eco_query_index.erl:88:1: Warning: function num/1 is unused
+src/eco_query_index.erl:96:1: Warning: function list_compare/2 is unused
+src/eco_query_index.erl:104:1: Warning: function get_key/1 is unused
+src/eco_query_index.erl:109:1: Warning: function prepare_dbdata/1 is unused
+src/eco_query_index.erl:112:5: Warning: variable 'Dbdata' is unused
+src/eco_query_index.erl:114:1: Warning: function insert_data/1 is unused
+src/eco_query_index.erl:128:1: Warning: function update_data/1 is unused
+
+Eshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling codearci
+[0mEshell V12.2.1  (abort with ^G)
+1> [0;32m===> Booted syntax_tools
+[0m1> [0;32m===> Booted compiler
+[0m1> [0;32m===> Booted goldrush
+[0m1> [0;32m===> Booted lager
+[0m1> [0;32m===> Booted cowlib
+[0m1> [0;32m===> Booted ranch
+[0m1> [0;32m===> Booted cowboy
+[0m1> [0;32m===> Booted codearci
+[0m1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/business"
+1> show me link url "https://www.economist.com/https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/https://www.economist.com/weeklyedition/2023-10-14"
+1> show me link url "https://www.economist.com/https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/20/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> 10:06:47.631 [error] CRASH REPORT Process <0.611.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 10:06:47 GMT"},{"via","1.1 3d74f66e3b711da20aa96fcd74e086d4.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:06:47.633 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.610.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 10:06:47 GMT"},{"via","1.1 3d74f66e3b711da20aa96fcd74e086d4.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/13/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> 10:07:08.820 [error] CRASH REPORT Process <0.615.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 10:07:08 GMT"},{"via","1.1 3d74f66e3b711da20aa96fcd74e086d4.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:07:08.827 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.614.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 10:07:08 GMT"},{"via","1.1 3d74f66e3b711da20aa96fcd74e086d4.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/printedition/2023-08-26"
+1> show me link url "https://www.economist.com/united-states/2023/10/12/joe-biden-should-admit-republicans-are-partly-right-about-border-security"
+1> show me link url "https://www.economist.com/https://www.economist.com/weeklyedition/2023-12-20"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyEdition"
+1> 10:43:04.373 [error] CRASH REPORT Process <0.786.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 10:43:04 GMT"},{"via","1.1 0d07c64d85b9f0560eabd0b323a4bf58.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88733"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:43:04.377 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.785.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 10:43:04 GMT"},{"via","1.1 0d07c64d85b9f0560eabd0b323a4bf58.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88733"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/13/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> 12:53:38.524 [error] CRASH REPORT Process <0.1028.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 12:53:38 GMT"},{"via","1.1 345ac40e43857b24ab85c7affa4ec84c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 12:53:38.529 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.1027.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Fri, 20 Oct 2023 12:53:38 GMT"},{"via","1.1 345ac40e43857b24ab85c7affa4ec84c.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/politics"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/17/poland-shows-that-populists-can-be-beaten"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/13/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> 03:07:37.984 [error] CRASH REPORT Process <0.2176.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 03:07:37 GMT"},{"via","1.1 4759de193c7dcd4b2027bf84cdc1f180.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 03:07:37.988 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2175.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 03:07:37 GMT"},{"via","1.1 4759de193c7dcd4b2027bf84cdc1f180.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88809"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/middle-east-and-africa/2023/10/14/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> 04:59:49.538 [error] CRASH REPORT Process <0.2443.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 04:59:49 GMT"},{"via","1.1 20ef2df581595126867ffacb98e95d90.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88788"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 04:59:49.546 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.2442.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 04:59:49 GMT"},{"via","1.1 20ef2df581595126867ffacb98e95d90.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88788"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/science-and-technology/2023/10/18/ai-could-help-unearth-a-trove-of-lost-classical-texts"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-04-01"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> 09:49:42.536 [error] CRASH REPORT Process <0.3714.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:49:42.536 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3713.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:49:45.178 [error] CRASH REPORT Process <0.3716.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:49:45.179 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3715.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/printedition/2023-09-02"
+1> show me link url "https://www.economist.com/printedition/2023-09"
+1> 09:51:02.231 [error] CRASH REPORT Process <0.3727.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:51:02 GMT"},{"via","1.1 64e31a85c2af2cc10d070383c1f71288.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88245"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:51:02.236 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3726.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",500,"Internal Server Error"},[{"cache-control","public,must-revalidate,max-age=300,s-maxage=0"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:51:02 GMT"},{"via","1.1 64e31a85c2af2cc10d070383c1f71288.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88245"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_S..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:51:14.987 [error] CRASH REPORT Process <0.3729.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:51:14 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:51:14.995 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3728.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:51:14 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:52:08.219 [error] CRASH REPORT Process <0.3736.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:52:08 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:52:08.225 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3735.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:52:08 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:52:37.653 [error] CRASH REPORT Process <0.3738.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:52:37.654 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3737.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:52:40.010 [error] CRASH REPORT Process <0.3740.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:52:40.011 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3739.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:52:45.543 [error] CRASH REPORT Process <0.3742.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:52:45 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:52:45.550 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3741.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:52:45 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:53:20.017 [error] CRASH REPORT Process <0.3746.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:20 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:53:20.021 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3745.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:20 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:53:34.555 [error] CRASH REPORT Process <0.3748.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:34 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:53:34.563 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3747.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:34 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:53:38.642 [error] CRASH REPORT Process <0.3750.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:38 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:53:38.648 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3749.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:38 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:53:45.665 [error] CRASH REPORT Process <0.3752.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:45 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:53:45.673 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3751.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:53:45 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:54:20.812 [error] CRASH REPORT Process <0.3755.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:54:20 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:54:20.817 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3754.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:54:20 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:54:25.083 [error] CRASH REPORT Process <0.3757.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:54:25 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:54:25.091 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3756.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:54:25 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/printeditio"
+1> 09:55:07.121 [error] CRASH REPORT Process <0.3761.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:55:07 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:55:07.125 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3760.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:55:07 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88731"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/arch222ve"
+1> 09:56:12.493 [error] CRASH REPORT Process <0.3774.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:56:12 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88729"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:56:12.499 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3773.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:56:12 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88729"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:56:45.693 [error] CRASH REPORT Process <0.3776.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:56:45.694 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3775.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:56:49.037 [error] CRASH REPORT Process <0.3779.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:56:49.037 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3778.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:56:59.265 [error] CRASH REPORT Process <0.3782.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:56:59.265 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3781.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:00.997 [error] CRASH REPORT Process <0.3784.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:00.998 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3783.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:36.518 [error] CRASH REPORT Process <0.3786.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:36.518 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3785.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:38.354 [error] CRASH REPORT Process <0.3788.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:38.355 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3787.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:47.178 [error] CRASH REPORT Process <0.3790.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:47.179 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3789.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:50.026 [error] CRASH REPORT Process <0.3792.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 09:57:50.027 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3791.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/aass"
+1> 09:58:12.619 [error] CRASH REPORT Process <0.3801.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:58:12 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88724"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:58:12.623 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3800.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:58:12 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88724"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/asd"
+1> 09:58:37.016 [error] CRASH REPORT Process <0.3809.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:58:36 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88723"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 09:58:37.019 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3808.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 09:58:36 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88723"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-10-07"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-09-30"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/printedition/2023-09-02"
+1> show me link url "https://www.economist.com/printedition/2023-09-02"
+1> show me link url "https://www.economist.com/printedition/2023-09-02"
+1> show me link url "https://www.economist.com/printedition/2023-08-12"
+1> show me link url "https://www.economist.com/printedition/2023-08-12"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/08/10/politics"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-10-07"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/12/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/12/kals-cartoon"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/printedition/2023-10-14"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:07:11.338 [error] CRASH REPORT Process <0.3923.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:07:11 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:07:11.343 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3922.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:07:11 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:07:21.050 [error] CRASH REPORT Process <0.3927.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:07:21 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:07:21.053 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3926.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:07:21 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:08:01.974 [error] CRASH REPORT Process <0.3932.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:08:01 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:08:01.978 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3931.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:08:01 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:08:24.999 [error] CRASH REPORT Process <0.3936.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:08:24 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:08:25.000 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3935.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:08:24 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/americas-republicans-cannot-agree-on-a-speaker-good"
+1> 10:09:49.463 [error] CRASH REPORT Process <0.3956.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 10:09:49.464 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3955.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 10:09:51.942 [error] CRASH REPORT Process <0.3959.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 10:09:51.943 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3958.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:09:57.368 [error] CRASH REPORT Process <0.3961.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:09:57 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:09:57.372 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3960.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:09:57 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> 10:10:00.700 [error] CRASH REPORT Process <0.3965.0> with 0 neighbours crashed with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> 10:10:00.701 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3964.0> had its request process exit with reason: bad argument in call to erlang:iolist_to_binary([<<"https://www.economist.com/">>,undefined]) in eco_query_article:main/1 line 21
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/the-stakes-could-hardly-be-higher-in-the-israel-gaza-conflict"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/how-to-make-britains-health-service-ai-ready"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/why-americas-banks-need-more-capital"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:12:15.406 [error] CRASH REPORT Process <0.3990.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:12:15 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:12:15.407 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.3989.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:12:15 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/19/israels-four-unpalatable-options-for-gazas-long-term-future"
+1> show me link url "https://www.economist.com/briefing/2023/10/19/as-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:16:15.294 [error] CRASH REPORT Process <0.4026.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:16:15 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:16:15.298 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4025.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:16:15 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:16:21.771 [error] CRASH REPORT Process <0.4032.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:16:21 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:16:21.773 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4031.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:16:21 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/2023-12-20"
+1> 10:16:26.262 [error] CRASH REPORT Process <0.4038.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:16:26 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:16:26.264 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4037.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:16:26 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/2023-12-20"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:17:01.584 [error] CRASH REPORT Process <0.4044.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:01 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:17:01.586 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4043.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:01 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:17:02.702 [error] CRASH REPORT Process <0.4046.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:02 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:17:02.705 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4045.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:02 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:17:04.166 [error] CRASH REPORT Process <0.4048.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:04 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:17:04.168 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4047.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:04 GMT"},{"via","1.1 3bf1261a2d16c532cd06b9b94420b93a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/2023-10-21"
+1> 10:17:53.703 [error] CRASH REPORT Process <0.4053.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:53 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:17:53.707 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4052.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:17:53 GMT"},{"via","1.1 2eb6c9b59172517e31c70a81501cb2fc.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88730"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-06-03"
+1> show me link url "https://www.economist.com/briefing/2023/10/05/the-war-in-ukraine-is-threatening-to-wash-across-the-black-sea"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/special-report%2F2023%2F10%2F02%2Fhomeland-economics-will-make-the-world-poorer"
+1> show me link url "https://www.economist.com/by-invitation/2023/10/17/david-petraeus-and-andrew-roberts-on-ukraine-and-the-future-of-warfare"
+1> show me link url "https://www.economist.com/the-economist-reads%2F2023%2F10%2F12%2Fwhat-to-read-and-watch-about-indigenous-australians"
+1> show me link url "https://www.economist.com/israel-hamas"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/podcasts%2F2023%2F10%2F20%2Fthe-kibbutz-that-fought-back-when-hamas-came"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/briefing%2F2023%2F10%2F19%2Fas-israels-invasion-of-gaza-nears-the-obstacles-get-more-daunting"
+1> show me link url "https://www.economist.com/2023-12-20"
+1> 10:40:35.010 [error] CRASH REPORT Process <0.4216.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:40:34 GMT"},{"via","1.1 ac370ad904507e73e6d3c71919b4efa6.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88729"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 10:40:35.011 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4215.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 10:40:34 GMT"},{"via","1.1 ac370ad904507e73e6d3c71919b4efa6.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88729"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/the-economist-reads%2F2023%2F10%2F12%2Fwhat-to-read-and-watch-about-indigenous-australians"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/this-weeks-covers"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/business"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/putins-plan-to-profit-from-the-israel-hamas-war"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/10/19/kals-cartoon"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/briefing/2023/10/17/hamas-tunnels-under-gaza-will-be-a-key-battlefield-for-israel"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/letters/2023/10/19/letters-to-the-editor"
+1> show me link url "https://www.economist.com/the-americas/2023/10/19/can-argentinas-next-president-fix-the-economy-dont-count-on-it"
+1> show me link url "https://www.economist.com/the-americas/2023/10/19/joe-biden-lifts-sanctions-on-venezuela-but-not-without-conditions"
+1> show me link url "https://www.economist.com/me/printedition/2023-10-21"
+1> 11:00:41.938 [error] CRASH REPORT Process <0.4332.0> with 0 neighbours crashed with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 11:00:41 GMT"},{"via","1.1 c8b2027d8d95d87e8f7cb2ca35e53d8a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88786"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> 11:00:41.943 [error] Cowboy stream 1 with ranch listener my_http_listener and connection process <0.4331.0> had its request process exit with reason: no match of right hand value {ok,{{"HTTP/1.1",404,"Not Found"},[{"cache-control","private,no-cache,no-store"},{"connection","keep-alive"},{"date","Sat, 21 Oct 2023 11:00:41 GMT"},{"via","1.1 c8b2027d8d95d87e8f7cb2ca35e53d8a.cloudfront.net (CloudFront)"},{"server","cloudflare"},{"content-length","88786"},{"content-type","text/html; charset=utf-8"},{"x-economist-env","ecs"},{"x-economist-features","SF_SIGNPOSTING,SOURCEPOINT,ONBOARDING_NOTIFICATION,ONBOARDING_GROUP_NOTIFICATION,OPTIMIZELY_SELF_HOSTING,LAPSED_USER_NOTIFICA..."},...],...}} in eco_query_article:main/1 line 23
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/is-israel-acting-within-the-laws-of-war-in-gaza"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-09-09"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-07-22"
+1> show me link url "https://www.economist.com//weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-09-09"
+1> show me link url "https://www.economist.com/the-world-this-week/2023/09/07/business"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/leaders/2023/10/19/how-to-make-britains-health-service-ai-ready"
+1> show me link url "https://www.economist.com/weeklyedition"
+1> show me link url "https://www.economist.com/printedition/2023-01-07"
+1> show me link url "https://www.economist.com/united-states/2023/01/05/chicagos-woes-are-over-hyped"
+1> show me link url "https://www.economist.com/united-states/2023/10/20/biden-pleads-the-case-for-israel-ukraine-and-american-leadership"
+1> 14:36:51.608 [info] SIGTERM received - shutting down
+1> 

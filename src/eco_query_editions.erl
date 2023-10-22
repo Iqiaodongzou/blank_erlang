@@ -38,8 +38,11 @@ prepare_format_index(Source) ->
     PreIndex = iolist_to_binary([<<"{\"props">>,Source]),
     MidIndex = lists:nth(1,binary:split(PreIndex,<<"<">>,[global])),
     OriUrl = <<"https://www.economist.com/">>,
-    TarUrl = <<"http://159.138.11.4:8081/query/article?article_link=https://www.economist.com/">>,
-    Index = iolist_to_binary(re:replace(MidIndex,OriUrl,TarUrl,[global])).
+    TarUrl = <<"http://54.190.52.30:8081/query/article?article_link=">>,
+    Index = iolist_to_binary(re:replace(MidIndex,OriUrl,TarUrl,[global])),
+    OriImg = <<"https://www.economist.com/media-assets/">>,
+    TarImg = <<"http://54\\.190\\.52\\.30:8081/query/article\\?article_link=media-assets/">>,
+    PostIndex = iolist_to_binary(re:replace(Index,TarImg,OriImg,[global])).
 
 prepare_source_check(Line,Regx) ->
     case re:run(Line, Regx, [{capture, all, binary}]) of

@@ -16,8 +16,9 @@ init(Req0, State) ->
 main(Req0) ->
     QsVals = cowboy_req:parse_qs(Req0),
     Link = proplists:get_value(<<"article_link">>,QsVals),
+    Prefix = <<"https://www.economist.com/">>,
     inets:start(),
-    Url = binary_to_list(iolist_to_binary([Link])),
+    Url = binary_to_list(iolist_to_binary([Prefix,Link])),
     io:format("show me link url ~p~n",[Url]),
     {ok, {{_, 200, _}, Headers, Body}} =
         httpc:request(get,
@@ -39,8 +40,11 @@ prepare_format_index(Source) ->
     PreIndex = iolist_to_binary([<<"{\"props">>,Source]),
     MidIndex = lists:nth(1,binary:split(PreIndex,<<"<">>,[global])),
     OriUrl = <<"https://www.economist.com/">>,
-    TarUrl = <<"http://159.138.11.4:8081/query/article?article_link=https://www.economist.com/">>,
-    Index = iolist_to_binary(re:replace(MidIndex,OriUrl,TarUrl,[global])).
+    TarUrl = <<"http://54.190.52.30:8081/query/article?article_link=">>,
+    Index = iolist_to_binary(re:replace(MidIndex,OriUrl,TarUrl,[global])),
+    OriImg = <<"https://www.economist.com/media-assets/">>,
+    TarImg = <<"http://54\\.190\\.52\\.30:8081/query/article\\?article_link=media-assets/">>,
+    PostIndex = iolist_to_binary(re:replace(Index,TarImg,OriImg,[global])).
 
 prepare_source_check(Line,Regx) ->
     case re:run(Line, Regx, [{capture, all, binary}]) of
