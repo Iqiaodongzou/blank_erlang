@@ -18,6 +18,8 @@ main(Req0) ->
     EditionId = proplists:get_value(<<"edition_id">>,QsVals),
     inets:start(),
     Url = binary_to_list(<<"https://www.economist.com/weeklyedition/archive">>),
+    Time = calendar:system_time_to_rfc3339(os:system_time(millisecond), [{unit, millisecond}]),
+    io:format("[ ~p ] show me link url ~p~n",[Time,Url]),
     {ok, {{_, 200, _}, Headers, Body}} =
         httpc:request(get,
                       {Url, []},

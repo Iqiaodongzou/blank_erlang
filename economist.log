@@ -1604,4 +1604,36 @@ Eshell V12.2.1  (abort with ^G)
 1> show me link url "https://www.economist.com/united-states/2023/01/05/chicagos-woes-are-over-hyped"
 1> show me link url "https://www.economist.com/united-states/2023/10/20/biden-pleads-the-case-for-israel-ukraine-and-american-leadership"
 1> 14:36:51.608 [info] SIGTERM received - shutting down
-1> 
+1> nohup: ignoring input
+[0;32m===> Verifying dependencies...
+[0m[0;32m===> Fetching cowboy (from {git,"https://github.com/ninenines/cowboy",
+                  {ref,"3eec447960eb03cde48f0f04cd72fd4d1e548ca0"}})
+[0m[0;32m===> Fetching cowlib (from {git,"https://github.com/ninenines/cowlib",
+                  {ref,"c6553f8308a2ca5dcd69d845f0a7d098c40c3363"}})
+[0m[0;32m===> Fetching jsx v3.1.0
+[0m[0;32m===> Fetching lager (from {git,"https://github.com/erlang-lager/lager",
+                 {ref,"27a075b0c488a9d334fc7a98b412c6bcf217be89"}})
+[0m[0;32m===> Fetching mysql (from {git,"https://github.com/mysql-otp/mysql-otp",
+                 {ref,"9a98eff7a127a5012c45e4b8bd845b0befccf0a9"}})
+[0m[0;32m===> Fetching ranch (from {git,"https://github.com/ninenines/ranch",
+                 {ref,"a692f44567034dacf5efcaa24a24183788594eb7"}})
+[0m[0;32m===> Fetching goldrush v0.1.9
+[0m[0;32m===> Analyzing applications...
+[0m[0;32m===> Compiling jsx
+[0m[0;32m===> Compiling ranch
+[0m[0;32m===> Compiling mysql
+[0m[0;32m===> Compiling goldrush
+[0m[0;32m===> Compiling lager
+[0m/root/01-workplace/blank_erlang/_build/default/lib/lager/src/lager.erl:79:10: Warning: variable '_App' is bound multiple times in this pattern. If you mean to ignore this value, use '_' or a different underscore-prefixed name
+%   79| start_ok(_App, {error, {already_started, _App}}) -> ok;
+%     |          ^
+
+/root/01-workplace/blank_erlang/_build/default/lib/lager/src/lager.erl:79:42: Warning: variable '_App' is bound multiple times in this pattern. If you mean to ignore this value, use '_' or a different underscore-prefixed name
+%   79| start_ok(_App, {error, {already_started, _App}}) -> ok;
+%     |                                          ^
+
+_build/default/lib/lager/src/lager.erl:79:10: Warning: variable '_App' is bound multiple times in this pattern. If you mean to ignore this value, use '_' or a different underscore-prefixed name
+_build/default/lib/lager/src/lager.erl:79:42: Warning: variable '_App' is bound multiple times in this pattern. If you mean to ignore this value, use '_' or a different underscore-prefixed name
+
+[0;32m===> Compiling cowlib
+[0m

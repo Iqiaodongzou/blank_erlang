@@ -19,7 +19,8 @@ main(Req0) ->
     Prefix = <<"https://www.economist.com/">>,
     inets:start(),
     Url = binary_to_list(iolist_to_binary([Prefix,Link])),
-    io:format("show me link url ~p~n",[Url]),
+    Time = calendar:system_time_to_rfc3339(os:system_time(millisecond), [{unit, millisecond}]),
+    io:format("[ ~p ] show me link url ~p~n",[Time,Url]),
     {ok, {{_, 200, _}, Headers, Body}} =
         httpc:request(get,
                       {Url, []},

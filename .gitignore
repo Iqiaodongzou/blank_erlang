@@ -8,6 +8,7 @@ _vendor
 *.plt
 *.swp
 *.swo
+*.log
 .erlang.cookie
 ebin
 log
